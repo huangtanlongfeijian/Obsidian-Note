@@ -1,0 +1,11 @@
+{
+  "deleteOption": "system-trash",
+  "logsModal": true,
+  "excludedFolders": "",
+  "ribbonIcon": false,
+  "excludeSubfolders": false,
+  "autoCleanOnVaultLoad": false,
+  "autoCleanEveryXMinutes": false,
+  "autoCleanIntervalMinutes": 15,
+  "clearEmptyFoldersAfterImageCleanup": false
+}

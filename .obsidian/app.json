@@ -1,0 +1,13 @@
+{
+  "attachmentFolderPath": "90_Attachment(附件)",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00_InBoxs(临时)",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
